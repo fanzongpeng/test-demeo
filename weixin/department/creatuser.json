@@ -1,9 +1,9 @@
 {
-    "userid": "zhangsan",
-    "name": "张三",
+    "userid": "{{userid}}",
+    "name": "{{name}}",
     "alias": "jackzhang",
-    "mobile": "15913215421",
-    "department": [1, 2],
+    "mobile": "{{mobile}}",
+    "department": [100],
     "order":[10,40],
     "position": "产品经理",
     "gender": "1",

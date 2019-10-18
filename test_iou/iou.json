@@ -1,0 +1,15 @@
+{
+            "head": {
+                "transType": "T",
+                "transDate": "2019-08-20",
+                "transTime": "18:25",
+                "transSerialNo": "21321312312323",
+                "sysCode": "1350"
+            },
+
+            "body": {
+                "orderNo": "5010201909250615018520001093",
+
+            }
+
+        }

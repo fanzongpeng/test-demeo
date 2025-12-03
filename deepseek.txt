@@ -1,0 +1,45 @@
+RAG评测：deepeval     deepeval.test_caseimport LLMTestCase
+大模型评测：sklearn.metrics
+opencv  cv2 图片识别，目标检测库
+
+sk-cbf4fa115e2d402cba8eb325514f52ad
+
+百炼：sk-e9ba44adc32a4d05820bc17ba9579926
+https://dashscope.aliyuncs.com/compatible-mode/v1
+qwen3-max
+
+
+stduai:sk-fxcPltGiPAqJTHkNzkOiaGRteBsGQYGXiOM2MPKZGKV8hL3x
+
+
+{
+  "text": "",
+  "files": [
+    {
+      "dify_model_identity": "__dify__file__",
+      "id": null,
+      "tenant_id": "8ff95211-28c2-4504-8f06-50fa4202aabc",
+      "type": "image",
+      "transfer_method": "tool_file",
+      "remote_url": "https://dashscope-result-wlcb.oss-cn-wulanchabu.aliyuncs.com/1d/79/20251031/033ed294/97413dd1-7e02-4fad-a05f-5367c5475614-1.png?Expires=1761987574&OSSAccessKeyId=LTAI5tKPD3TMqf2Lna1fASuh&Signature=9eAk5dI8%2Bhm9ZiL7dAxm1qqRKnY%3D",
+      "related_id": "2b898c8e-99ce-449d-b90e-36018b336d18",
+      "filename": "81e37f78d7ab4de8815d48db7defc365.png",
+      "extension": ".png",
+      "mime_type": "image/png",
+      "size": 1009573,
+      "url": "http://api:5001/files/tools/2b898c8e-99ce-449d-b90e-36018b336d18.png?timestamp=1761901180&nonce=58e734bdda30b95da430c8b371f3db26&sign=Pv8-stJNmkhn3Z64X41pIvQi9hNco_Kwl4kCpUdwRzA="
+    }
+  ],
+  "json": [
+    {
+      "image_count": 1,
+      "results": [
+        {
+          "orig_prompt": "<think>\n我们想要生成一张在寂静的夜晚，一个人与自己灵魂对话的场景，并且要求是皮克斯动画风格，图片比例9:16。\n 首先，我们需要描述场景：寂静的夜晚（quiet night），可能是在室内或者户外，但为了突出与灵魂对话的意境，我们可以选择在户外有星空或月光的背景，或者是室内有温暖灯光的场景。考虑到“与自己灵魂对话”，我们可以设计一个角色（可以是任何人，但为了普适性，我们用一个普通的人）和另一个代表灵魂的形象（可以是透明的、发光的、或者半透明的另一个自己）。\n 皮克斯风格（Pixar style）意味着3D渲染，卡通化但细节丰富，色彩鲜艳，富有表现力。\n 图片比例9:16，通常是竖构图，适合手机壁纸等。\n\n 提示词结构建议：\n 1. 主体：一个人（可以描述为普通的人，或者不指定性别用中性词）和他的灵魂（soul）在对话。\n 2. 环境：夜晚，寂静（quiet），可能有月光（moonlight）或星光（starlight），也可以考虑在窗边或者户外。\n 3. 氛围：宁静（peaceful）、祥和（serene）、内省（introspective）、神秘（mystical）或梦幻（d",
+          "url": "https://dashscope-result-wlcb.oss-cn-wulanchabu.aliyuncs.com/1d/79/20251031/033ed294/97413dd1-7e02-4fad-a05f-5367c5475614-1.png?Expires=1761987574&OSSAccessKeyId=LTAI5tKPD3TMqf2Lna1fASuh&Signature=9eAk5dI8%2Bhm9ZiL7dAxm1qqRKnY%3D"
+        }
+      ],
+      "task_id": "97413dd1-7e02-4fad-a05f-5367c5475614"
+    }
+  ]
+}
